@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  font-family: 'Roboto',
+  sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #282c34;
+}
+
+@font-face {
+  font-family: 'Roboto';
+  src: local('../public/fonts/Roboto-Regular.ttf')
+}
+
+@font-face {
+  font-family: 'Roboto';
+  src: local('../public/fonts/Roboto-Italic.ttf')
+}
+
+@font-face {
+  font-family: 'Roboto';
+  src: local('../public/fonts/Roboto-Bold.ttf')
+}
